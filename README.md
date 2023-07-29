@@ -1,2 +1,2 @@
-# BigdataOps
-大数据运维
+# FunScript
+运维脚本
